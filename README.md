@@ -18,7 +18,7 @@ Aplikasi ini dibuat untuk mengelola layanan internet bank dari suatu client perb
 3. Service ini menggunakan HTTP Rest API sebagai inter-service communication karena diperlukannya respon secara spontan. Adapun HTTP Rest API yang tersedia pada service ini adalah GET, GET by id, POST, PUT by id, dan DELETE by id.
 
 ## Tools Product Service 
-JAVA, SPRING BOOT, MONGODB, LOMBOK, SWAGGER, POSTMAN
+JAVA, SPRING BOOT, MAVEN, MONGODB, LOMBOK, SWAGGER, POSTMAN
 
 # product-bank.app-bootcamp-multipolar
 Service Product untuk Aplikasi Bank
